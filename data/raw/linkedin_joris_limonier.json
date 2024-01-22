@@ -1,0 +1,506 @@
+{
+  "public_identifier": "jorislimonier",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jorislimonier/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240120%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240120T172729Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e6de5bfb13d9fe3357e7af1a10d6802aa40b81231bd8cd5ff33f8c0c811c49a9",
+  "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jorislimonier/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240120%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240120T172729Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9ce1cc232450558be2f1d7d4473b72139e30eee142736d85a7994cbaa35c2d64",
+  "first_name": "Joris",
+  "last_name": "LIMONIER",
+  "full_name": "Joris LIMONIER",
+  "follower_count": 745,
+  "occupation": "Data Scientist at Framatome",
+  "headline": "💡 Data Scientist Freelancer 💡 I help your company gaining data insights with end-to-end functional solutions ✅",
+  "summary": "👋🏻 Hi, I'm Joris LIMONIER, a Data Scientist Freelancer \n\n🔬 Data Science | 💻 Machine Learning | 📊 Data Analysis | 📈 Predictive Modeling | 📚 Authoring\n\n👨🏻\u200d💼 Welcome to my profile! I am a dedicated and passionate Data Scientist with a diverse skill set encompassing data analysis, machine learning, and authorship. As a freelancer, I offer comprehensive data science solutions to companies seeking to unlock the full potential of their data.\n\n💼 Professional Experience:\n- Data Scientist Internship at Framatome, working on anomaly detection and Temporal Convolutional Networks for defect detection in nuclear reactors.\n- Data Analyst Internship at MANE, developing algorithms to predict production rates and managing the machine learning lifecycle.\n- Author at Manning Publications, writing educational content on the Julia programming language.\n\n🚀 Key Skills:\n- Deep Learning: Convolutional Neural Networks, Variational Autoencoders, GANs, Time Series Forecasting\n- Machine Learning:  Clustering, Regression, Classification\n- Data Analysis: Statistical Data Analysis, Exploratory Data Analysis, Data Visualization\n- Programming: Python, Julia\n- Data Science Tools: PyTorch, TensorFlow, Scikit-Learn\n- Authorship: Technical Writing, Communication, Teaching\n\n🎓 Education:\n- Master's in Data Science and Artificial Intelligence (ongoing)\n- Bachelor's in Mathematics\n\n💼 Freelance Services:\nAs a Freelance Data Scientist, I provide tailored solutions to empower companies with data-driven insights. From advanced data analysis to developing high-performing machine learning models, I deliver actionable solutions that drive business success. With a strong background in Python, Statistics, and data science tools, I am well-equipped to tackle projects of any scale.\n\n📚 Authorship:\nI combine my technical expertise with strong communication and writing skills. I have authored educational content for Manning Publications, offering a unique perspective and ability to convey complex concepts clearly.\n\n🌐 Let's Collaborate:\nI am actively seeking new freelance opportunities to apply my expertise and contribute to your company's growth. If you are looking for a skilled Data Scientist to unlock the value of your data and discover precious insights, let's connect and discuss how we can work together to achieve your goals.\n\n✉️ Contact Me:\n- Email: joris.limonier@gmail.com\n- Portfolio: https://github.com/jorislimonier\n\nLet's harness the power of data to drive innovation and success for your company. Reach out to me today, and let's collaborate on your next data-driven project 💪🏻",
+  "country": "FR",
+  "country_full_name": "France",
+  "city": "Saint-Germain-du-Plain",
+  "state": "Bourgogne-Franche-Comté",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2022
+      },
+      "ends_at": "None",
+      "company": "Joris LIMONIER",
+      "company_linkedin_profile_url": "None",
+      "title": "Freelance Data Scientist",
+      "description": "I work as a Freelance Data Scientist, being my own boss. I provide my expertise to customers on:\n- Data Science & Machine Learning services\n- Application construction (Python, Julia, R)\n- Data Science trainings\n- Statistical Analysis",
+      "location": "Strassen, Luxembourg, Luxembourg",
+      "logo_url": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2019
+      },
+      "company": "Self-employed",
+      "company_linkedin_profile_url": "None",
+      "title": "Private Teacher",
+      "description": "None",
+      "location": "Luxembourg",
+      "logo_url": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2023
+      },
+      "ends_at": "None",
+      "company": "Framatome",
+      "company_linkedin_profile_url": "https://fr.linkedin.com/company/framatome",
+      "title": "Data Scientist",
+      "description": "👷🏼\u200d♂️Role description 👷🏼\u200d♂️\n- Anomaly detection on time series acquired from Eddy current in nuclear reactors\n- Implementation of temporally-aware Convolutional Neural Networks to detect defects\n- Work on auto-encoders to perform unsupervised classification",
+      "location": "Chalon-sur-Saône, Bourgogne-Franche-Comté, France",
+      "logo_url": "https://media.licdn.com/dms/image/C510BAQGhUhyH-FL8JA/company-logo_100_100/0/1519856053208?e=2147483647&v=beta&t=cFyHqRY8CNbvXUdEiHHDiJk7PVpj-Ea0kAzbP2xagWE"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2022
+      },
+      "company": "MANE",
+      "company_linkedin_profile_url": "https://fr.linkedin.com/company/mane",
+      "title": "Data Analyst",
+      "description": "I worked as a Data Analyst Intern at V. Mane Fils, where I developed an algorithm to predict production rates of aromatic powders. I managed the whole Machine Learning Life cycle, which includes:\n- Exploratory Data Analysis\n- Data Pre-processing\n- Prediction\n- Hyper-Parameters Tuning\n- Model Evaluation\n- Data Post-Processing\n- Deployment",
+      "location": "Le Bar-sur-Loup, Provence-Alpes-Côte d'Azur, France",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQGflYDiRosPHw/company-logo_100_100/0/1645457870466?e=2147483647&v=beta&t=G3KdVahLwC2z5k0IBcJExfE04Qi1uqV-GcW8hPMoIQA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2022
+      },
+      "company": "Manning Publications Co.",
+      "company_linkedin_profile_url": "https://fr.linkedin.com/company/manning-publications-co",
+      "title": "Author",
+      "description": "Writing a LiveProject on the Julia programming Language, in cooperation with Manning Publications.",
+      "location": "Remote",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEu8OFylLBqjQ/company-logo_100_100/0/1519935120190?e=2147483647&v=beta&t=jzgE2sQ89GgLS777wqPkt6-ydSmgrpRFzFs63gAljwA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2021
+      },
+      "company": "University of Luxembourg",
+      "company_linkedin_profile_url": "https://fr.linkedin.com/company/university-of-luxembourg",
+      "title": "Research Support",
+      "description": "Develop general algorithms to determine maxima of unknown functions for applications in the industry.",
+      "location": "Luxembourg",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQGcN-IjyVNydw/company-logo_100_100/0/1519912758886?e=2147483647&v=beta&t=YLVPEeA13oMaoUyJ8F2TEpXW6zkKZrut5FGGFC_H3AM"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2021
+      },
+      "company": "University of Luxembourg",
+      "company_linkedin_profile_url": "https://fr.linkedin.com/company/university-of-luxembourg",
+      "title": "Research Support",
+      "description": "None",
+      "location": "Luxembourg, Luxembourg",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQGcN-IjyVNydw/company-logo_100_100/0/1519912758886?e=2147483647&v=beta&t=YLVPEeA13oMaoUyJ8F2TEpXW6zkKZrut5FGGFC_H3AM"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2020
+      },
+      "company": "University of Luxembourg",
+      "company_linkedin_profile_url": "https://fr.linkedin.com/company/university-of-luxembourg",
+      "title": "Research Support",
+      "description": "Providing data analysis, data visualizations, statistical expertise.\nThe data analysis and visualizations are made in Python. The statistical analysis covers both Python (Scipy...etc) and handmade work.",
+      "location": "None",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQGcN-IjyVNydw/company-logo_100_100/0/1519912758886?e=2147483647&v=beta&t=YLVPEeA13oMaoUyJ8F2TEpXW6zkKZrut5FGGFC_H3AM"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2020
+      },
+      "company": "University of Luxembourg",
+      "company_linkedin_profile_url": "https://fr.linkedin.com/company/university-of-luxembourg",
+      "title": "Research Support",
+      "description": "Writing a paper about my findings in the context of network protocols and optimisation of performances evaluation. This paper summarizes the work I have done in collaboration with Prof. Nicolas NAVET, including the algorithm I constructed which improves performances by 50%.\nThe paper will soon be made public and I cannot wait to share it once it has been completed !",
+      "location": "None",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQGcN-IjyVNydw/company-logo_100_100/0/1519912758886?e=2147483647&v=beta&t=YLVPEeA13oMaoUyJ8F2TEpXW6zkKZrut5FGGFC_H3AM"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2019
+      },
+      "company": "University of Luxembourg",
+      "company_linkedin_profile_url": "https://fr.linkedin.com/company/university-of-luxembourg",
+      "title": "Research Support",
+      "description": "Providing data analysis, data visualizations, statistical expertise.\nThe data analysis and visualizations are made in Python. The statistical analysis covers both Python (Scipy...etc) and handmade work.",
+      "location": "None",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQGcN-IjyVNydw/company-logo_100_100/0/1519912758886?e=2147483647&v=beta&t=YLVPEeA13oMaoUyJ8F2TEpXW6zkKZrut5FGGFC_H3AM"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2020
+      },
+      "company": "Cognifyer",
+      "company_linkedin_profile_url": "https://fr.linkedin.com/company/cognifyer",
+      "title": "Research Support",
+      "description": "None",
+      "location": "None",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQEaICI3JXzM0A/company-logo_100_100/0/1572191822535?e=2147483647&v=beta&t=pj6oQV1aYD7IbdGN8utH5oRkA8n_2iJIVjwrXU5DYCI"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2018
+      },
+      "company": "réussit'school",
+      "company_linkedin_profile_url": "https://fr.linkedin.com/company/r-ussit%27school",
+      "title": "Mathematics Teacher",
+      "description": "None",
+      "location": "Luxembourg",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQENO9nOYyUMYA/company-logo_100_100/0/1611931204416?e=2147483647&v=beta&t=ccpzAKcw9DSlj7m-_nAX7K9N9Phx7HsFrokPcNk0fFg"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2023
+      },
+      "field_of_study": "Data Sciences & Artificial Intelligence",
+      "degree_name": "Master of Science - MS",
+      "school": "Université Côte d'Azur",
+      "school_linkedin_profile_url": "https://fr.linkedin.com/school/univ_cotedazur/",
+      "description": "None",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQGtCtoQ3s2feA/company-logo_100_100/0/1519866864059?e=2147483647&v=beta&t=Ofaj-ZjglmR9kO00l6bDjxsxj_yjoa_g09V8fj8682E",
+      "grade": "17.48/20 (semester 1)",
+      "activities_and_societies": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2021
+      },
+      "field_of_study": "Mathematics",
+      "degree_name": "Bachelor's degree",
+      "school": "University of Luxembourg",
+      "school_linkedin_profile_url": "https://fr.linkedin.com/school/university-of-luxembourg/",
+      "description": "None",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQGcN-IjyVNydw/company-logo_100_100/0/1519912758886?e=2147483647&v=beta&t=YLVPEeA13oMaoUyJ8F2TEpXW6zkKZrut5FGGFC_H3AM",
+      "grade": "11.9",
+      "activities_and_societies": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2017
+      },
+      "field_of_study": "Aerospace, Aeronautical and Astronautical/Space Engineering",
+      "degree_name": "None",
+      "school": "University of Surrey",
+      "school_linkedin_profile_url": "https://fr.linkedin.com/school/university-of-surrey/",
+      "description": "None",
+      "logo_url": "https://media.licdn.com/dms/image/D4E0BAQFPzxEJGdWEtw/company-logo_100_100/0/1685524093584?e=2147483647&v=beta&t=oPJ7wUsVnpT27Mot8jfncxXsdZ1vVuRzWzJx3yUoXfQ",
+      "grade": "None",
+      "activities_and_societies": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2016
+      },
+      "field_of_study": "Mathematics and Natural Sciences",
+      "degree_name": "A-levels",
+      "school": "Vauban, Ecole et Lycée Français de Luxembourg",
+      "school_linkedin_profile_url": "https://fr.linkedin.com/school/lyc%C3%A9e-vauban-lyc%C3%A9e-fran%C3%A7ais-du-luxembourg/",
+      "description": "Focused fields of study: Mathematics, Physics, Mechanics, Chemistry, Biology, Geology",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQGEkIAuLQC28Q/company-logo_100_100/0/1519905850556?e=2147483647&v=beta&t=AJGiMnlwp2IElnMLHgh2Ig2yR3WOjVg2wG_uL2tQ_Eo",
+      "grade": "Good",
+      "activities_and_societies": "Class representative 2014-2015"
+    }
+  ],
+  "languages": [
+    "French",
+    "English",
+    "Spanish",
+    "Portuguese",
+    "Chinese",
+    "Luxembourgish",
+    "Russian"
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://fr.linkedin.com/in/rapha%C3%ABlle-roty",
+      "name": "Raphaëlle Roty",
+      "summary": "Data Scientist - Thales Services Numériques",
+      "location": "Nice et périphérie"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/jasmine-kaur-singh",
+      "name": "Jasmine Singh",
+      "summary": "MSc. Data Science and Artificial Intelligence Student | Université Cote d'Azur| Computer Science Engineering Graduate Seeking Opportunities",
+      "location": "Cannes"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/franz-franco-64819593",
+      "name": "Franz Franco",
+      "summary": "PhD Student @ INRIA",
+      "location": "Nice"
+    },
+    {
+      "link": "https://lu.linkedin.com/in/yann-hoffmaaann",
+      "name": "Yann HOFFMANN",
+      "summary": "PhD candidate in Machine Learning",
+      "location": "Luxembourg"
+    },
+    {
+      "link": "https://nl.linkedin.com/in/ufuk-cem-birbiri-84881b213",
+      "name": "Ufuk Cem Birbiri",
+      "summary": "Data Science Intern at Aircision",
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/elias-boughosn",
+      "name": "Elias Boughosn",
+      "summary": "Big Data Engineer",
+      "location": "Nice"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/luca-tullio-762622265",
+      "name": "Luca Tullio",
+      "summary": "En train de valider ma L3 informatique",
+      "location": "Nice"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/sourav-rai-2a7063184",
+      "name": "Sourav Rai",
+      "summary": "SitInCloud",
+      "location": "Courbevoie"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/jean-elis%C3%A9e-yao-176647a5",
+      "name": "Jean-Elisée YAO",
+      "summary": "Data scientist | Software engineer | Artificial intelligence engineer",
+      "location": "Paris"
+    },
+    {
+      "link": "https://ca.linkedin.com/in/benjaminejzenberg",
+      "name": "Benjamin Ejzenberg",
+      "summary": "⚡Expert Power BI : je vous apprends la dataviz 📊 500+ personnes formées 🚀 Formateur Certifié Microsoft",
+      "location": "Montréal, QC"
+    },
+    {
+      "link": "https://ca.linkedin.com/in/alessandropalmas",
+      "name": "Alessandro Palmas",
+      "summary": "Developing AI for your favorite video games @ Ubisoft La Forge • Creator of DIAMBRA | Dueling AI Arena",
+      "location": "Montréal, QC"
+    },
+    {
+      "link": "https://uk.linkedin.com/in/benmoseley",
+      "name": "Ben Moseley",
+      "summary": "Physics + AI researcher at ETH Zürich AI Center",
+      "location": "Oxford et périphérie"
+    },
+    {
+      "link": "https://nl.linkedin.com/in/mrunalkrishnan",
+      "name": "Mrunal Krishnan",
+      "summary": "MSc Aerospace Engineer  | CFD Engineer | Computational Fluid Dynamics | Fluid Dynamics/Aerodynamics CFD | CAD Design | Costing | Project management | Machine Learning in CFD enthusiast | 5+ years’ experience",
+      "location": "Delft"
+    },
+    {
+      "link": "https://ie.linkedin.com/in/kevin-nolan-869a5725",
+      "name": "Kevin Nolan",
+      "summary": "Lecturer at University College Dublin",
+      "location": "Irlande"
+    },
+    {
+      "link": "https://it.linkedin.com/in/michelemerelli",
+      "name": "Michele Merelli",
+      "summary": "💦 Particleworks | 🎼 futuro fortissimo newsletter | Business Development | SaaS | ex-ABB | CAE |",
+      "location": "Bergame"
+    },
+    {
+      "link": "https://be.linkedin.com/in/roxane-van-mellaert-76a11a7a",
+      "name": "Roxane Van Mellaert",
+      "summary": "Chief Product Officer | PhD in Engineering Science | Structural optimization | Thermal design optimization",
+      "location": "Louvain"
+    },
+    {
+      "link": "https://uk.linkedin.com/in/aidan-wimshurst",
+      "name": "Aidan Wimshurst",
+      "summary": "Senior Engineer in Computational Fluid Dynamics",
+      "location": "Londres et périphérie, Royaume-Uni"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elsoncorreia",
+      "name": "Elson Correia",
+      "summary": "Frontend Engineer at AWS",
+      "location": "Boston et périphérie"
+    },
+    {
+      "link": "https://nl.linkedin.com/in/jousefmurad",
+      "name": "Jousef Murad",
+      "summary": "🌱 Helping SaaS & Tech With Marketing | 🎬 YouTuber | 🚀 Engineer at Monolith | 🎙️ Podcaster | 🧠 AI",
+      "location": "Eindhoven"
+    },
+    {
+      "link": "https://lu.linkedin.com/in/chiara-maria-curci",
+      "name": "Chiara Maria Curci",
+      "summary": "EU Project Consultant and Researcher",
+      "location": "Luxembourg"
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "Un projet dont je suis très fier ! :) C'était une grosse pièce de fin 2022, je suis aussi heureux du rendu de la vidéo et du Behance.On a pu tout…",
+      "link": "https://www.linkedin.com/posts/gil-loux-60a894173_un-projet-dont-je-suis-tr%C3%A8s-fier-c%C3%A9tait-activity-7069638043359408128-73zT",
+      "activity_status": "Aimé par Joris LIMONIER"
+    },
+    {
+      "title": "Distances are underrated. 📏🧮We, data scientists, are no strangers to the complexity and intricacy of our field. Yet, in the pursuit of the next…",
+      "link": "https://www.linkedin.com/posts/jorislimonier_datascience-distancemetrics-machinelearning-activity-7069915468236546048-7Zpc",
+      "activity_status": "Partagé par Joris LIMONIER"
+    },
+    {
+      "title": "🎬 With Willie Peijnenburg, we had the opportunity to be part of the FRANCE 24 Documentary \"Des microplastiques dans vos salades\" about…",
+      "link": "https://www.linkedin.com/posts/laura-zantis_%C3%A9l%C3%A9ment-terre-des-microplastiques-dans-activity-7068940124595593216-C_7I",
+      "activity_status": "Aimé par Joris LIMONIER"
+    },
+    {
+      "title": "Un peu d'humour 👨\u200d💼🐄🤷\u200d♀️....➡️ Dernière étude publiée : selon les vaches 🐄, la France devrait réduire les effectifs de la Cour des Comptes…",
+      "link": "https://www.linkedin.com/posts/gw%C3%A9na%C3%ABlle-bailhache-30705922b_vache-humour-onmarchesurlatete-activity-7067827824346198016-sdG2",
+      "activity_status": "Aimé par Joris LIMONIER"
+    },
+    {
+      "title": "As a data scientist, I've come to appreciate the more subtle tools in our analytical arsenal, one of which is the Mahalanobis distance. 🗺️This…",
+      "link": "https://www.linkedin.com/posts/jorislimonier_datascience-mahalanobisdistance-machinelearning-activity-7067378768704675841-wVo_",
+      "activity_status": "Partagé par Joris LIMONIER"
+    },
+    {
+      "title": "Ce qui me désole, c’est que dans ce pays, quand tu gagnes 4000€ net tu fais partie des 10% les mieux payés !!!Dans le même temps, en Suisse, le…",
+      "link": "https://www.linkedin.com/posts/michaelaguilarconferencier_ce-qui-me-d%C3%A9sole-cest-que-dans-ce-pays-activity-7064623114646642688-YFlI",
+      "activity_status": "Aimé par Joris LIMONIER"
+    },
+    {
+      "title": "✏️ Cher Emmanuel Macron, l’expérience utilisateur et le design de la déclaration d’impôt en ligne est proprement infâme, vous le savez comme nous…",
+      "link": "https://www.linkedin.com/posts/l%C3%A9o-machabert_design-impots-activity-7066329342053642240-oDz_",
+      "activity_status": "Aimé par Joris LIMONIER"
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Joris LIMONIER",
+      "link": "https://fr.linkedin.com/in/joris-limonier-4a505723b",
+      "summary": "--",
+      "location": "Paris"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": "None",
+  "gender": "None",
+  "birth_date": "None",
+  "industry": "None",
+  "extra": "None",
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+}
